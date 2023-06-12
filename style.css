@@ -96,6 +96,7 @@ body {
 
 .info-header {
   margin-top: 50px;
+  text-align: center;
   font-size: 36px;
   font-weight: 800;
   color: #1F2937;
@@ -103,6 +104,7 @@ body {
 
 .cards {
   display: flex;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 50px;
 }
