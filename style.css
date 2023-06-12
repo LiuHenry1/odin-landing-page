@@ -4,6 +4,10 @@ body {
   margin: 0;
 }
 
+.top, .footer {
+  background-color: #1F2937;
+}
+
 .top {
   display: flex;
   flex-direction: column;
@@ -11,7 +15,6 @@ body {
   gap: 100px;
   padding-top: 10px;
   padding-bottom: 100px;
-  background-color: #1F2937;
   color: white;
 }
 
@@ -162,4 +165,13 @@ figcaption {
 .sign-up-v2 {
   width: 100px;
   border: 1px solid white;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  padding: 20px;
+  color: white;
 }
