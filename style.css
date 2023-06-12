@@ -64,7 +64,7 @@ body {
   color: #EfE7EB;
 }
 
-.sign-up {
+.sign-up, .sign-up-v2 {
   min-width: 100px;
   margin-top: 10px;
   border: none;
@@ -138,4 +138,28 @@ figcaption {
     width: 70%;
     text-align: end;
     font-size: 16px;
+}
+
+.call-to-action {
+  width: 75%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  border-radius: 10px;
+  background-color: #3882F6;
+  color: white;
+}
+
+.call-to-action-header {
+  font-size: 20px;
+}
+
+.call-to-action-sub {
+  font-size: 18px;
+  margin: 0;
+}
+
+.sign-up-v2 {
+  width: 100px;
+  border: 1px solid white;
 }
