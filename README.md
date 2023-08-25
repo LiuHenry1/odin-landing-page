@@ -1,5 +1,6 @@
-# odin-landing-page
-The Odin Project: [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
+Landing Page
+The Odin Project: [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)\
+[View Site](https://liuhenry1.github.io/odin-landing-page/)
 
 ## Overview
 The second project in The odin Project curriculum. This project was cumulative, covering all previous
