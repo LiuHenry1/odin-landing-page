@@ -3,7 +3,7 @@
 
 ## Overview
 The [second project](https://www.theodinproject.com/lessons/foundations-landing-page) in The Odin Project curriculum. 
-This project was cumulative, covering all previoustopics and recent ones up to Flexbox. 
+This project was cumulative, covering all previous topics and recent ones up to Flexbox. 
 This project focused primarily on creating dynamic layouts using flexbox. 
 
 ## Reflection
