@@ -1,4 +1,4 @@
-Landing Page
+# Landing Page
 The Odin Project: [Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)\
 [View Site](https://liuhenry1.github.io/odin-landing-page/)
 
